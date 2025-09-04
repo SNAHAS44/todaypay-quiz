@@ -1,0 +1,82 @@
+[
+	{
+		"id": "q1",
+		"question": "What is the capital of France?",
+		"options": ["Berlin", "Madrid", "Paris", "Rome"],
+		"correctIndex": 2,
+		"difficulty": "easy",
+		"category": "Geography"
+	},
+	{
+		"id": "q2",
+		"question": "Which planet is known as the Red Planet?",
+		"options": ["Venus", "Mars", "Jupiter", "Saturn"],
+		"correctIndex": 1,
+		"difficulty": "easy",
+		"category": "Science"
+	},
+	{
+		"id": "q3",
+		"question": "Who wrote 'To Kill a Mockingbird'?",
+		"options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "Jane Austen"],
+		"correctIndex": 0,
+		"difficulty": "medium",
+		"category": "Literature"
+	},
+	{
+		"id": "q4",
+		"question": "What is the smallest prime number?",
+		"options": ["0", "1", "2", "3"],
+		"correctIndex": 2,
+		"difficulty": "easy",
+		"category": "Math"
+	},
+	{
+		"id": "q5",
+		"question": "Which language runs in a web browser?",
+		"options": ["Java", "C", "Python", "JavaScript"],
+		"correctIndex": 3,
+		"difficulty": "easy",
+		"category": "Technology"
+	},
+	{
+		"id": "q6",
+		"question": "What does CSS stand for?",
+		"options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Colorful Style Sheets"],
+		"correctIndex": 1,
+		"difficulty": "easy",
+		"category": "Technology"
+	},
+	{
+		"id": "q7",
+		"question": "Which year did the World War II end?",
+		"options": ["1945", "1939", "1918", "1963"],
+		"correctIndex": 0,
+		"difficulty": "medium",
+		"category": "History"
+	},
+	{
+		"id": "q8",
+		"question": "What is the chemical symbol for Gold?",
+		"options": ["Au", "Ag", "Gd", "Go"],
+		"correctIndex": 0,
+		"difficulty": "medium",
+		"category": "Science"
+	},
+	{
+		"id": "q9",
+		"question": "Which company developed the React library?",
+		"options": ["Google", "Facebook", "Microsoft", "Twitter"],
+		"correctIndex": 1,
+		"difficulty": "easy",
+		"category": "Technology"
+	},
+	{
+		"id": "q10",
+		"question": "Which ocean is the largest?",
+		"options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+		"correctIndex": 3,
+		"difficulty": "easy",
+		"category": "Geography"
+	}
+]
